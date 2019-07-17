@@ -1,0 +1,2 @@
+[2019-07-17 19:05:15.620] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jmvillatei/Documentos/CQM/test/cqm-angular-test/.vscode'
+[2019-07-17 19:05:15.628] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jmvillatei/Documentos/CQM/test/cqm-angular-test/.vscode'
